@@ -153,3 +153,6 @@ Predicted Class: bird
 This project successfully demonstrates a basic CNN architecture applied to the CIFAR-10 dataset with GUI support. The model achieves around 71% accuracy on test data and can classify custom images using a simple Tkinter-based GUI.
 
 ---
+![Image](https://github.com/user-attachments/assets/d34b27aa-e567-4a19-a71e-e439085c4f8c)
+
+![Image](https://github.com/user-attachments/assets/db8d8900-c5a9-499f-9bad-d7684b5c97a6)
